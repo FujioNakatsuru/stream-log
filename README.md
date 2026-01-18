@@ -9,10 +9,10 @@ They do not imply future schedules, commitments, or completion status.
 
 ## Structure
 
-- `[games](games/)`  
+- [games](games/)  
   Year-based records of games I’ve streamed or played.
 
-- `[notes](notes/)`  
+- [notes](notes/)  
   Policies or notes related to how records are kept.
 
 ---
