@@ -1,0 +1,46 @@
+# These are the games I’m currently exploring or may return to.
+
+- 428
+- 9時間9人9の扉
+- A Plague Tale: Innocence
+- A Plague Tale: REQUIEM
+- Agatha Christie - Hercule Poirot: The London Case
+- Agatha Christie - The ABC Murders
+- Alisa
+- ARMORED CORE VI
+- Arsene Lupin - Once a Thief
+- Best Served Cold
+- Bloodborne
+- Bloodwash
+- ENDER LILIES Quietus of the Knights
+- Enotria: The Last Song
+- HEAVY RAIN -心の軋むとき-
+- Homebody
+- LAYERS OF FEAR
+- Life is Strange 2
+- Life is Strange: True Colors
+- Life is Strange: DOUBLE EXPOSURE
+- Lies of P
+- Lorelei and the Laser Eyes
+- Mortal Shell
+- Murder House
+- Red Dead Redemption II
+- Sherlock Holmes: Chapter One
+- Sherlock Holmes: The Awakened
+- Sherlock Holmes: Crimes and Punishments
+- The Testament of Sherlock Holmes
+- Sherlock Holmes: The Devil's Daughter
+- Shadow Corridor
+- Spiritfarer
+- The Renovator: Origins
+- TORMENTED SOULS
+- Until Then
+- Viewfinder
+- WHITE DAY ~学校という名の迷宮~
+- WHITE DAY 2: The Flower That Tells Lies
+- ゼルダの伝説　ブレス オブ ザ ワイルド
+- ゼルダの伝説　ティアーズ オブ ザ キングダム
+- ゼルダの伝説　知恵のかりもの
+- 善人シボウデス
+- 仁王
+- 仁王2
