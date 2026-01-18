@@ -14,12 +14,4 @@ They do not imply future schedules, commitments, or completion status.
 
 - [notes](notes/)  
   Policies or notes related to how records are kept.
-
----
-
-## Notes
-
-This archive prioritizes:
-- clarity over completeness
-- records over announcements
-- flexibility over fixed plans
+  
