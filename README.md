@@ -11,7 +11,3 @@ They do not imply future schedules, commitments, or completion status.
 
 - [games](games/)  
   Year-based records of games I’ve streamed or played.
-
-- [notes](notes/)  
-  Policies or notes related to how records are kept.
-  
