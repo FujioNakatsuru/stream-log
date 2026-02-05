@@ -24,6 +24,7 @@
 - Lorelei and the Laser Eyes
 - Mortal Shell
 - Murder House
+- PRAGMATA
 - Red Dead Redemption II
 - Sherlock Holmes: Chapter One
 - Sherlock Holmes: The Awakened
@@ -33,6 +34,7 @@
 - Shadow Corridor
 - Spiritfarer
 - The Renovator: Origins
+- TOKYO SCRAMBLE
 - TORMENTED SOULS
 - Until Then
 - Viewfinder
@@ -41,6 +43,7 @@
 - ゼルダの伝説　ブレス オブ ザ ワイルド
 - ゼルダの伝説　ティアーズ オブ ザ キングダム
 - ゼルダの伝説　知恵のかりもの
+- パラノマサイト FILE38 伊勢人魚物語
 - 善人シボウデス
 - 仁王
 - 仁王2
