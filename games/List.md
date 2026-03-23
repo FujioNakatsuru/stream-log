@@ -29,7 +29,7 @@
 - TORMENTED SOULS
 - Until Then
 - Viewfinder
-- WHITE DAY ~学校という名の迷宮~
+- WHITE DAY ~ 学校という名の迷宮 ~
 - WHITE DAY 2: The Flower That Tells Lies
 - ゼルダの伝説　ティアーズ オブ ザ キングダム
 - ゼルダの伝説　知恵のかりもの
