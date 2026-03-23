@@ -33,4 +33,5 @@
 - WHITE DAY 2: The Flower That Tells Lies
 - ゼルダの伝説　ティアーズ オブ ザ キングダム
 - ゼルダの伝説　知恵のかりもの
+- 紅の砂漠
 - 善人シボウデス
