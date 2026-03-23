@@ -13,7 +13,6 @@
 - Enotria: The Last Song
 - HEAVY RAIN -心の軋むとき-
 - Homebody
-- LAYERS OF FEAR
 - Life is Strange 2
 - Life is Strange: True Colors
 - Life is Strange: DOUBLE EXPOSURE
