@@ -17,6 +17,7 @@
 - Enotria: The Last Song
 - HEAVY RAIN -心の軋むとき-
 - Homebody
+- Kingdom Come: Deliverance II
 - LAYERS OF FEAR
 - Life is Strange 2
 - Life is Strange: True Colors
