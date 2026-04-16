@@ -29,6 +29,7 @@
 - NanoApostle（ナノアポスル）
 - NieR:Automata
 - Obduction
+- OPUS: Prism Peak
 - Planet of Lana - プラネット・オブ・ラーナ
 - R-Type Delta: HD Boosted PS4 & PS5
 - Sable
@@ -55,6 +56,5 @@
 - ホグワーツ・レガシー
 - ロックマン クラシックス コレクション
 - 帰ってきた 魔界村
-- 紅の砂漠
 - 祇（くにつがみ）：Path of the Goddess
 - 善人シボウデス
