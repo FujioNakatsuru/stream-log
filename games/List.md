@@ -2,7 +2,6 @@
 
 - 428
 - 9時間9人9の扉
-- A Plague Tale: Innocence
 - A Plague Tale: REQUIEM
 - ABZU
 - ARMORED CORE VI
@@ -29,9 +28,7 @@
 - NanoApostle（ナノアポスル）
 - NieR:Automata
 - Obduction
-- OPUS: Prism Peak
 - Planet of Lana - プラネット・オブ・ラーナ
-- R-Type Delta: HD Boosted PS4 & PS5
 - Sable
 - Sherlock Holmes: Chapter One
 - Sherlock Holmes: The Awakened
@@ -47,14 +44,10 @@
 - WHITE DAY ~ 学校という名の迷宮 ~
 - WHITE DAY 2: The Flower That Tells Lies
 - XENOTILT
-- アーケードアーカイブス　忍者龍剣伝
 - アストロボット
 - ウィッチャー３　ワイルドハント
-- コーヒートーク トーキョー
 - ゼルダの伝説　ティアーズ オブ ザ キングダム
 - ゼルダの伝説　知恵のかりもの
 - ホグワーツ・レガシー
-- ロックマン クラシックス コレクション
-- 帰ってきた 魔界村
 - 祇（くにつがみ）：Path of the Goddess
 - 善人シボウデス
