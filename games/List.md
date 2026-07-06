@@ -12,8 +12,11 @@
 - Best Served Cold
 - Bloodwash
 - CARAVAN SAND WITCH
+- CASSETTE BOY
 - CONTROL
+- DEATH STRANDING
 - Enotria: The Last Song
+- Gitaroo man
 - HEAVY RAIN -心の軋むとき-
 - Homebody
 - Kingdom Come: Deliverance II
@@ -22,6 +25,9 @@
 - Life is Strange: True Colors
 - Life is Strange: DOUBLE EXPOSURE
 - Lies of P
+- Lumines Arise
+- Melatonin
+- moon
 - Mortal Shell
 - MYST
 - Murder House
@@ -36,9 +42,11 @@
 - The Testament of Sherlock Holmes
 - Sherlock Holmes: The Devil's Daughter
 - Shadow Corridor
+- Sky 星を紡ぐ子どもたち
 - SPIRITFARER
 - The Renovator: Origins
 - TORMENTED SOULS
+- UNDERTALE
 - Until Then
 - Viewfinder
 - WHITE DAY ~ 学校という名の迷宮 ~
@@ -50,6 +58,8 @@
 - ゼルダの伝説　ティアーズ オブ ザ キングダム
 - ゼルダの伝説　知恵のかりもの
 - ホグワーツ・レガシー
+- ユニコーンオーバーロード
+- 風ノ旅ビト
 - 紅の砂漠
 - 祇（くにつがみ）：Path of the Goddess
 - 善人シボウデス
