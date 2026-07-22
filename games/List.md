@@ -44,11 +44,11 @@
 - Shadow Corridor
 - Sky 星を紡ぐ子どもたち
 - SPIRITFARER
+- Splatoon RAIDERS
 - The Renovator: Origins
 - TORMENTED SOULS
 - UNDERTALE
 - Until Then
-- Viewfinder
 - WHITE DAY ~ 学校という名の迷宮 ~
 - WHITE DAY 2: The Flower That Tells Lies
 - XENOTILT
