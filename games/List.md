@@ -35,6 +35,7 @@
 - NieR:Automata
 - Obduction
 - Planet of Lana - プラネット・オブ・ラーナ
+- Red Dead Redemption II
 - Sable
 - Sherlock Holmes: Chapter One
 - Sherlock Holmes: The Awakened
