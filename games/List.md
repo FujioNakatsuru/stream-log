@@ -10,9 +10,11 @@
 - Alisa
 - Arsene Lupin - Once a Thief
 - Best Served Cold
+- Bloodborne
 - Bloodwash
 - CARAVAN SAND WITCH
 - CASSETTE BOY
+- Clair Obscur: Expedition 33 | New game +
 - CONTROL
 - DEATH STRANDING
 - Enotria: The Last Song
@@ -25,6 +27,7 @@
 - Life is Strange: True Colors
 - Life is Strange: DOUBLE EXPOSURE
 - Lies of P
+- Lorelei and the Laser Eyes
 - Lumines Arise
 - Melatonin
 - moon
