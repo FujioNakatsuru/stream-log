@@ -41,6 +41,7 @@
 - Shadow Corridor
 - SPIRITFARER
 - The Renovator: Origins
+- The Witness
 - TORMENTED SOULS
 - Until Then
 - WHITE DAY ~ 学校という名の迷宮 ~
