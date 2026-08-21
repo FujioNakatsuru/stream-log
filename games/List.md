@@ -16,6 +16,7 @@
 - CASSETTE BOY
 - CONTROL
 - Enotria: The Last Song
+- グランド・セフト・オートVI
 - HEAVY RAIN -心の軋むとき-
 - Homebody
 - Kingdom Come: Deliverance II
