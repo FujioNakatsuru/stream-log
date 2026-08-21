@@ -16,7 +16,6 @@
 - CASSETTE BOY
 - CONTROL
 - Enotria: The Last Song
-- グランド・セフト・オートVI
 - HEAVY RAIN -心の軋むとき-
 - Homebody
 - Kingdom Come: Deliverance II
@@ -49,6 +48,7 @@
 - WHITE DAY 2: The Flower That Tells Lies
 - アストロボット
 - ウィッチャー３　ワイルドハント
+- グランド・セフト・オートVI
 - ゼルダの伝説　ブレス オブ ザ ワイルド
 - ゼルダの伝説　ティアーズ オブ ザ キングダム
 - ゼルダの伝説　知恵のかりもの
@@ -56,4 +56,3 @@
 - ユニコーンオーバーロード
 - 風ノ旅ビト
 - 善人シボウデス
-- 未解決事件は終わらせないといけないから
