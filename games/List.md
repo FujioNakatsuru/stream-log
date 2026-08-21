@@ -31,6 +31,7 @@
 - Murder House
 - NieR:Automata
 - Obduction
+- Observation
 - Planet of Lana - プラネット・オブ・ラーナ
 - Red Dead Redemption II
 - Sherlock Holmes: Chapter One
