@@ -24,6 +24,7 @@
 - Life is Strange: DOUBLE EXPOSURE
 - Lies of P
 - Lorelei and the Laser Eyes
+- MONSTER HUNTER WILDS ASCENDANCE
 - moon
 - Mortal Shell
 - MYST
