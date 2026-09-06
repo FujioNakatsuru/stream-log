@@ -5,7 +5,6 @@
 - A Plague Tale: REQUIEM
 - ABZU
 - ARMORED CORE VI
-- Agatha Christie - The ABC Murders
 - Alisa
 - Arsene Lupin - Once a Thief
 - Best Served Cold
