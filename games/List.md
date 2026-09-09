@@ -14,8 +14,10 @@
 - CASSETTE BOY
 - CONTROL
 - Enotria: The Last Song
+- gen ATLAS
 - HEAVY RAIN -心の軋むとき-
 - Homebody
+- ILL
 - Kingdom Come: Deliverance II
 - LAYERS OF FEAR
 - Life is Strange 2
@@ -36,13 +38,16 @@
 - Sherlock Holmes: Chapter One
 - Sherlock Holmes: The Awakened
 - Sherlock Holmes: Crimes and Punishments
+- TankRat
 - The Testament of Sherlock Holmes
 - Sherlock Holmes: The Devil's Daughter
 - Shadow Corridor
 - SPIRITFARER
+- State of Decay 3
 - The Renovator: Origins
 - The Witness
 - TORMENTED SOULS
+- UN:Me
 - Until Then
 - WHITE DAY ~ 学校という名の迷宮 ~
 - WHITE DAY 2: The Flower That Tells Lies
