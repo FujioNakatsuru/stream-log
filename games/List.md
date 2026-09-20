@@ -6,7 +6,6 @@
 - ABZU
 - ARMORED CORE VI
 - Alisa
-- Arsene Lupin - Once a Thief
 - Best Served Cold
 - Bloodborne
 - Bloodwash
