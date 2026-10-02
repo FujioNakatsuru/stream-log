@@ -51,7 +51,6 @@
 - WHITE DAY ~ 学校という名の迷宮 ~
 - WHITE DAY 2: The Flower That Tells Lies
 - アストロボット
-- ウィッチャー３　ワイルドハント
 - ギタルマン
 - グランド・セフト・オートVI
 - ゼルダの伝説　ブレス オブ ザ ワイルド
