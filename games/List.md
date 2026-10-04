@@ -45,7 +45,6 @@
 - SPIRITFARER
 - State of Decay 3
 - The Renovator: Origins
-- The Witness
 - TORMENTED SOULS
 - UN:Me
 - Until Then
@@ -53,7 +52,6 @@
 - WHITE DAY 2: The Flower That Tells Lies
 - アストロボット
 - ギタルマン
-- グランド・セフト・オートVI
 - ゼルダの伝説　ブレス オブ ザ ワイルド
 - ゼルダの伝説　ティアーズ オブ ザ キングダム
 - ゼルダの伝説　知恵のかりもの
