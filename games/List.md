@@ -28,10 +28,8 @@
 - MONSTER HUNTER WILDS ASCENDANCE
 - moon
 - Mortal Shell
-- MYST
 - Murder House
 - NieR:Automata
-- Obduction
 - Observation
 - Planet of Lana - プラネット・オブ・ラーナ
 - Red Dead Redemption II
@@ -42,7 +40,6 @@
 - The Testament of Sherlock Holmes
 - Sherlock Holmes: The Devil's Daughter
 - Shadow Corridor
-- SPIRITFARER
 - State of Decay 3
 - The Renovator: Origins
 - TORMENTED SOULS
