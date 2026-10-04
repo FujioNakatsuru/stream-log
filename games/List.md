@@ -14,6 +14,7 @@
 - CONTROL
 - Enotria: The Last Song
 - gen ATLAS
+- Grand Theft Auto VI
 - HEAVY RAIN -心の軋むとき-
 - Homebody
 - ILL
