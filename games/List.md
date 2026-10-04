@@ -40,7 +40,6 @@
 - The Testament of Sherlock Holmes
 - Sherlock Holmes: The Devil's Daughter
 - Shadow Corridor
-- State of Decay 3
 - The Renovator: Origins
 - TORMENTED SOULS
 - UN:Me
