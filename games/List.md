@@ -13,6 +13,7 @@
 - CASSETTE BOY
 - CONTROL
 - Enotria: The Last Song
+- Forza Horizon 6
 - gen ATLAS
 - Grand Theft Auto VI
 - HEAVY RAIN -心の軋むとき-
