@@ -14,6 +14,7 @@
 - CASSETTE BOY
 - CONTROL
 - Enotria: The Last Song
+- Fallout 76
 - Forza Horizon 6
 - gen ATLAS
 - Grand Theft Auto VI
