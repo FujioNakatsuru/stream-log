@@ -4,7 +4,6 @@
 - 9時間9人9の扉
 - A Plague Tale: REQUIEM
 - ABZU
-- Agatha Christie - Hercule Poirot: The London Case
 - ARMORED CORE VI
 - Alisa
 - Best Served Cold
