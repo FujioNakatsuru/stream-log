@@ -12,12 +12,14 @@
 - Bloodwash
 - CARAVAN SAND WITCH
 - CASSETTE BOY
+- Chants of Sennaar
 - CONTROL
 - Enotria: The Last Song
 - Fallout 76
 - Forza Horizon 6
 - gen ATLAS
 - Grand Theft Auto VI
+- GUNDAM ROGUE ORBIT
 - HEAVY RAIN -心の軋むとき-
 - Homebody
 - ILL
@@ -34,20 +36,26 @@
 - NieR:Automata
 - Planet of Lana - プラネット・オブ・ラーナ
 - Red Dead Redemption II
+- Return of the Obra Dinn
+- Rez Infinite
 - Sherlock Holmes: Chapter One
 - Sherlock Holmes: The Awakened
 - Sherlock Holmes: Crimes and Punishments
 - TankRat
+- TETRIS EFFECT CONNECTED
 - The Testament of Sherlock Holmes
 - Sherlock Holmes: The Devil's Daughter
 - Shadow Corridor
+- The Case of the GOLDEN IDOL
 - The Renovator: Origins
 - TORMENTED SOULS
 - UN:Me
+- Until Dawn 2 -祟り島の惨劇-
 - Until Then
 - WHITE DAY ~ 学校という名の迷宮 ~
 - WHITE DAY 2: The Flower That Tells Lies
 - アストロボット
+- オリオリワールド
 - ギタルマン
 - ゼルダの伝説　ブレス オブ ザ ワイルド
 - ゼルダの伝説　ティアーズ オブ ザ キングダム
@@ -57,3 +65,4 @@
 - 風ノ旅ビト
 - 紅の砂漠
 - 善人シボウデス
+- 忘れられた都市 - The Forgotten City
