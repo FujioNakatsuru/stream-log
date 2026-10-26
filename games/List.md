@@ -46,12 +46,14 @@
 - The Testament of Sherlock Holmes
 - Sherlock Holmes: The Devil's Daughter
 - Shadow Corridor
+- Signal Veil
 - The Case of the GOLDEN IDOL
 - The Renovator: Origins
 - TORMENTED SOULS
 - UN:Me
 - Until Dawn 2 -祟り島の惨劇-
 - Until Then
+- When Sirens Fall Silent
 - WHITE DAY ~ 学校という名の迷宮 ~
 - WHITE DAY 2: The Flower That Tells Lies
 - アストロボット
