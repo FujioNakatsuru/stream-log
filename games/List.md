@@ -10,6 +10,7 @@
 - Bloodborne
 - Bloodwash
 - CARAVAN SAND WITCH
+- The Case of the GOLDEN IDOL
 - CASSETTE BOY
 - Chants of Sennaar
 - CONTROL
@@ -35,6 +36,7 @@
 - NieR:Automata
 - Planet of Lana - プラネット・オブ・ラーナ
 - Red Dead Redemption II
+- The Renovator: Origins
 - Return of the Obra Dinn
 - Rez Infinite
 - Sherlock Holmes: Chapter One
@@ -46,8 +48,7 @@
 - Sherlock Holmes: The Devil's Daughter
 - Shadow Corridor
 - Signal Veil
-- The Case of the GOLDEN IDOL
-- The Renovator: Origins
+- THUMPER
 - TORMENTED SOULS
 - UN:Me
 - Until Dawn 2 -祟り島の惨劇-
